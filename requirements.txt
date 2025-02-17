@@ -1,5 +1,6 @@
 googletrans==4.0.0-rc1
 deep-translator
+transformers==4.49.0
 textblob
 vaderSentiment
 pyttsx3
@@ -15,3 +16,4 @@ python-docx
 gtts
 fpdf
 fpdf2
+tf-keras
