@@ -18,4 +18,3 @@ gtts
 fpdf
 fpdf2
 tf-keras
-pip>=25.0.1
